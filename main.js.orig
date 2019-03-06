@@ -1,0 +1,6 @@
+var num = 50;
+<<<<<<< HEAD
+var truth = "Hello Flatter Earth"
+=======
+var truth = "Hello Flat Earth"
+>>>>>>> da4abe9ce6d21961d9e1ca65e05f7cac118a7946
